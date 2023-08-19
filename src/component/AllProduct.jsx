@@ -45,7 +45,7 @@ const AllProduct = ({ heading }) => {
           })
         ) : (
           <div className="min-h-[150px] flex justify-center items-center">
-            <p>Hello</p>
+            <p>My name is kahhizre</p>
           </div>
         )}
       </div>
